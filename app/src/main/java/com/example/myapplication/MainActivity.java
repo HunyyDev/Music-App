@@ -98,6 +98,4 @@ public class MainActivity extends AppCompatActivity {
             handler.postDelayed(this, 100);
         }
     };
-
-
 }
